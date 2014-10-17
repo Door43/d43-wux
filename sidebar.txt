@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wux:home|Door43 (wux)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wux|d43-wux repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wux/archive/master.zip|d43-wux.zip]]
+
+**Recent Changes**
+{{changes>ns = wux}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wux|Ethnologue data]]
+
